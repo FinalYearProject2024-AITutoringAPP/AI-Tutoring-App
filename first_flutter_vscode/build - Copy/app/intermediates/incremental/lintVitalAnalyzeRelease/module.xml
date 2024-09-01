@@ -1,0 +1,18 @@
+<lint-module
+    format="1"
+    dir="C:\Users\kwanb\Projects\Flutter\first_flutter_vscode\android\app"
+    name=":app"
+    type="APP"
+    maven="android:app:"
+    gradle="7.3.0"
+    buildFolder="C:\Users\kwanb\Projects\Flutter\first_flutter_vscode\build\app"
+    bootClassPath="C:\Users\kwanb\AppData\Local\Android\sdk\platforms\android-34\android.jar;C:\Users\kwanb\AppData\Local\Android\sdk\build-tools\30.0.3\core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-34">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>
